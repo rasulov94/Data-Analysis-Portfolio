@@ -14,21 +14,20 @@ The goal of the project is to test whether additional feature on the app will be
  - Study events funnel
  - Results of the experiment & recommendations
 
-<img src="AAB_testing_user_behavior/data/events_funnel.png" width="800" height="400" align='center'>
+<img src='./AAB_testing_user_behavior/data/events_funnel.png' width="800" height="400" align='center'>
 
 Source: [Project](./AAB_testing_user_behavior)
 
 ### Project: *Statistical Hypothesis Testing*
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
-
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
  - Test hypotheses
  - Conclusion & recommendations
  
- <img src="AB_statistical_hypotheses_testing/conversion_rate.png" width="800" height="400" align='center'>
+<img src='AB_statistical_hypotheses_testing/conversion_rate.png' width="800" height="400" align='center'>
 
-Source:[Project](./AB_statistical_hypotheses_testing)
+Source: [Project](./AB_statistical_hypotheses_testing)
 
 ### Project: *Optimizing marketing expenses*
  Help optimize marketing expenses.<br>
@@ -44,8 +43,14 @@ Tasks completed:<br>
  - How much money each customer brings<br>
  - When they pay off<br>
 
+<<<<<<< HEAD
  <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
  
+=======
+<img src='Business_analytics/device_types.png' width="800" height="400" align='center'>
+<img src="Business_analytics/avg_purchase_size.png' width="800" height="400" align='center'>
+<img src='Business_analytics/ltv.png' width="800" height="400" align='center'>
+>>>>>>> 1a8826dfd8b34ba66e56f0bd7f0ca897668bac14
 
 Source:[Project](./Business_analytics)
 
@@ -64,9 +69,9 @@ Make a presentation of your research to share with investors.
 ###  Preparing a  presentation
 **Presentation:** https://drive.google.com/file/d/18nSTDNegAhOBfyUxmlP9TYlkZuPgJhzy/view?usp=sharing
 
-<img src="Cafe_market_research/distribution.png" width="800" height="400" align='center'>
-<img src="Cafe_market_research/scatter.png" width="800" height="400" align='center'>
-<img src="Cafe_market_research/street.png" width="800" height="400" align='center'>
+<img src='Cafe_market_research/distribution.png' width="800" height="400" align='center'>
+<img src='Cafe_market_research/scatter.png' width="800" height="400" align='center'>
+<img src='Cafe_market_research/street.png' width="800" height="400" align='center'>
 
 Source:[Project](./Cafe_market_research)
 
