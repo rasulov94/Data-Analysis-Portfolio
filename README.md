@@ -28,7 +28,7 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
  - Conclusion & recommendations
 
 
-<img src='images/conversion.png' align='center'>
+<img src='images/conversion.jpeg' align='center'>
 
 Source: [Project](./AB_statistical_hypotheses_testing)
 
@@ -44,6 +44,7 @@ Datasets:
  - How much money each customer brings
  - When they pay off
 
-<img src='Business_analytics/images/device.png' align='center'>
+<img src='images/device.jpeg' align='center'>
+<img src='images/avg.jpeg' align='center'>
 
 Source: [Project](./Business_analytics) 
