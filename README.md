@@ -21,12 +21,11 @@ Source: [Project](./AAB_testing_user_behavior)
 ### Project: *Visualizing Company’s Sales Data*
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
-
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
  - Test hypotheses
  - Conclusion & recommendations
  
- <img src="AB_statistical_hypotheses_testing/conversion_rate.png" width="800" height="400" align='center'>
+<img src="AB_statistical_hypotheses_testing/conversion_rate.png" width="800" height="400" align='center'>
 
 Source:[Project](./AB_statistical_hypotheses_testing)
 
@@ -44,9 +43,9 @@ Tasks completed:<br>
  - How much money each customer brings<br>
  - When they pay off<br>
 
- <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
- <img src="Business_analytics/avg_purchase_size.png" width="800" height="400" align='center'>
- <img src="Business_analytics/ltv.png" width="800" height="400" align='center'>
+<img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
+<img src="Business_analytics/avg_purchase_size.png" width="800" height="400" align='center'>
+<img src="Business_analytics/ltv.png" width="800" height="400" align='center'>
 
 Source:[Project](./Business_analytics)
 
