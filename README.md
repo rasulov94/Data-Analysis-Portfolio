@@ -51,7 +51,7 @@ Tasks completed:<br>
 <img src='Business_analytics/device_types.png' width="800" height="400" align='center'>
 <img src="Business_analytics/avg_purchase_size.png' width="800" height="400" align='center'>
 <img src='Business_analytics/ltv.png' width="800" height="400" align='center'>
->>>>>>> 1a8826dfd8b34ba66e56f0bd7f0ca897668bac14
+
 
 Source:[Project](./Business_analytics)
 
@@ -77,13 +77,13 @@ Make a presentation of your research to share with investors.
 Source:[Project](./Cafe_market_research)
 
 ### Project: *Analyse client behavior*
-Analysing the earthquakes in Greece in a jupyter notebook
+
 
  - Data files and studying the general information
- -  Preparing the data.](#2)  
- - Analyze the data](#3)  
- - Test the hypotheses](#4)
- -  Write an overall conclusion](#5)  
+ - Preparing the data  
+ - Analyze the data  
+ - Test the hypotheses
+ - Write an overall conclusion
 
 
 Source:[Project](./Client_behavior_analysis)
