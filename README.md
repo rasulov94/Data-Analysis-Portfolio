@@ -44,7 +44,7 @@ Tasks completed:<br>
  - How much money each customer brings<br>
  - When they pay off<br>
 
-<<<<<<< HEAD
+
  <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
  
 =======
