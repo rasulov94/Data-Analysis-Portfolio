@@ -14,7 +14,7 @@ The goal of the project is to test whether additional feature on the app will be
  - Study events funnel
  - Results of the experiment & recommendations
 
-![Events Funnel](AAB_testing_user_behavior\data\events_funnel.png)
+![Events Funnel](AAB_testing_user_behavior/data/events_funnel.png)
 
 Source: [Project](./AAB_testing_user_behavior) </br>
 
