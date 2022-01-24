@@ -6,7 +6,7 @@ Welcome to my data analysis portfolio. Feel free to dive into the world of data.
  - Pandas, Numpy, Seaborn, Matplotlib, Stats, Datetime, Plotly
  
 
-### Project: *Conducting A/A/B testing, studying sales funnel*
+### **Project:** **Conducting A/A/B testing, studying sales funnel**
 The goal of the project is to test whether additional feature on the app will be successful or not.
 
  - Import and preprocess datasets
@@ -15,39 +15,38 @@ The goal of the project is to test whether additional feature on the app will be
  - Results of the experiment & recommendations
 
 ![Events Funnel](AAB_testing_user_behavior\data\events_funnel.png)
-<img src='./AAB_testing_user_behavior/data/events_funnel.png' width="800" height="400" align='center'>
 
-Source: [Project](./AAB_testing_user_behavior)
+Source: [Project](./AAB_testing_user_behavior) </br>
 
-### Project: *Statistical Hypothesis Testing*
+
+
+### **Project:** **Statistical Hypothesis Testing**
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
  - Test hypotheses
  - Conclusion & recommendations
  
-<img src='AB_statistical_hypotheses_testing/conversion_rate.png' width="800" height="400" align='center'>
+<img src='AB_statistical_hypotheses_testing/conversion_rate.png' width="600" height="300" align='center'>
 
 Source: [Project](./AB_statistical_hypotheses_testing)
 
-### Project: *Optimizing marketing expenses*
- Help optimize marketing expenses.<br>
+### **Project:** **Optimizing marketing expenses**
 
-Datasets:<br>
- - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018<br>
- - Dump file with all orders for the period<br>
- - Marketing expenses statistics<br>
+Datasets:
+ - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
+ - Dump file with all orders for the period
+ - Marketing expenses statistics
  
-Tasks completed:<br>
- - How people use the product<br>
- - When they start to buy<br>
- - How much money each customer brings<br>
- - When they pay off<br>
-
+ To do:
+ - How people use the product
+ - When they start to buy
+ - How much money each customer brings
+ - When they pay off
 
  <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
  
-=======
+
 <img src='Business_analytics/device_types.png' width="800" height="400" align='center'>
 <img src="Business_analytics/avg_purchase_size.png' width="800" height="400" align='center'>
 <img src='Business_analytics/ltv.png' width="800" height="400" align='center'>
@@ -55,9 +54,10 @@ Tasks completed:<br>
 
 Source:[Project](./Business_analytics)
 
-### Project: *Cafe market research*
-## Project description
-You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions—will you be able to maintain your success when the novelty of robot waiters wears off?
+
+### **Project:** **Cafe market research**
+
+We've decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions—will you be able to maintain your success when the novelty of robot waiters wears off?
 You’re an analytics guru, so your partners have asked you to prepare some market research. You have open-source data on restaurants in LA.
 
 ### Goal of the Project
