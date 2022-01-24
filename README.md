@@ -16,8 +16,7 @@ The goal of the project is to test whether additional feature on the app will be
 
 <img src='AAB_testing_user_behavior/data/funnel.png' align='center'>
 
-Source: [Project](./AAB_testing_user_behavior) </br>
-
+Source: [Project](./AAB_testing_user_behavior) 
 
 
 ### **Project:** **Statistical Hypothesis Testing**
