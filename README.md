@@ -37,7 +37,6 @@ Datasets:
  - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
  - Dump file with all orders for the period
  - Marketing expenses statistics
- 
  To do:
  - How people use the product
  - When they start to buy
@@ -46,46 +45,3 @@ Datasets:
 
  <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
  
-
-<img src='Business_analytics/device_types.png' width="800" height="400" align='center'>
-<img src="Business_analytics/avg_purchase_size.png' width="800" height="400" align='center'>
-<img src='Business_analytics/ltv.png' width="800" height="400" align='center'>
-
-
-Source:[Project](./Business_analytics)
-
-
-### **Project:** **Cafe market research**
-
-We've decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions—will you be able to maintain your success when the novelty of robot waiters wears off?
-You’re an analytics guru, so your partners have asked you to prepare some market research. You have open-source data on restaurants in LA.
-
-### Goal of the Project
-Draw an overall conclusion and provide recommendations on restaurant type and number of seats. Comment on the possibility of developing a chain.<br>
-Make a presentation of your research to share with investors.
-
- - Identify top opportunities
- - Present findings
-
-###  Preparing a  presentation
-**Presentation:** https://drive.google.com/file/d/18nSTDNegAhOBfyUxmlP9TYlkZuPgJhzy/view?usp=sharing
-
-<img src='Cafe_market_research/distribution.png' width="800" height="400" align='center'>
-<img src='Cafe_market_research/scatter.png' width="800" height="400" align='center'>
-<img src='Cafe_market_research/street.png' width="800" height="400" align='center'>
-
-Source:[Project](./Cafe_market_research)
-
-### Project: *Analyse client behavior*
-
-
- - Data files and studying the general information
- - Preparing the data  
- - Analyze the data  
- - Test the hypotheses
- - Write an overall conclusion
-
-
-Source:[Project](./Client_behavior_analysis)
-
-
