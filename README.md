@@ -42,5 +42,5 @@ Datasets:
  - How much money each customer brings
  - When they pay off
 
- <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
+ <img src='Business_analytics/device.png' align='center'>
  
