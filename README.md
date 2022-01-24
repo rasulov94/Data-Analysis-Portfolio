@@ -26,7 +26,8 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
  - Test hypotheses
  - Conclusion & recommendations
- 
+
+
 <img src='AB_statistical_hypotheses_testing/images/conversion.png' align='center'>
 
 Source: [Project](./AB_statistical_hypotheses_testing)
