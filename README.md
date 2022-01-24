@@ -1,5 +1,5 @@
 ## Data Analysis Portfolio
-Welcome to my data analysis portfolio. Feel free to dive into the world of data.
+Welcome to my data analysis portfolio. Feel free to dive into the world of data & business analytics.
 
 ## Languages & libraries used:
  - Python, Jupyter notebook, SQL, Excel & Tableau
