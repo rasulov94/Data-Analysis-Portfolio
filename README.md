@@ -2,7 +2,7 @@
 Welcome to my data analysis portfolio. Feel free to dive into the world of data.
 
 ## Languages & libraries used:
- - Python, SQL, Excel & Tableau
+ - Python, Jupyter notebook, SQL, Excel & Tableau
  - Pandas, Numpy, Seaborn, Matplotlib, Stats, Datetime, Plotly
  
 
