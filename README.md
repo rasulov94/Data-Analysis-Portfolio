@@ -16,7 +16,7 @@ The goal of the project is to test whether additional feature on the app will be
 
 <img src="AAB_testing_user_behavior/data/events_funnel.png" width="800" height="400" align='center'>
 
-Source: [Project] (./AAB_testing_user_behavior)
+Source: [Project](./AAB_testing_user_behavior)
 
 ### Project: *Visualizing Company’s Sales Data*
 Prioritize hypotheses, launch an A/B test, and analyze the results.
