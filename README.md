@@ -14,7 +14,7 @@ The goal of the project is to test whether additional feature on the app will be
  - Study events funnel
  - Results of the experiment & recommendations
 
-![Events Funnel](./AAB_testing_user_behavior/data/events_funnel.png)
+<img src='AAB_testing_user_behavior/data/funnel.png' align='center'>
 
 Source: [Project](./AAB_testing_user_behavior) </br>
 
@@ -27,7 +27,7 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
  - Test hypotheses
  - Conclusion & recommendations
  
-<img src='AB_statistical_hypotheses_testing/conversion_rate.png' width="600" height="300" align='center'>
+<img src='AB_statistical_hypotheses_testing/conversion.png' align='center'>
 
 Source: [Project](./AB_statistical_hypotheses_testing)
 
