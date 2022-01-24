@@ -18,7 +18,7 @@ The goal of the project is to test whether additional feature on the app will be
 
 Source: [Project](./AAB_testing_user_behavior)
 
-### Project: *Visualizing Company’s Sales Data*
+### Project: *Statistical Hypothesis Testing*
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 
@@ -45,8 +45,7 @@ Tasks completed:<br>
  - When they pay off<br>
 
  <img src="Business_analytics/device_types.png" width="800" height="400" align='center'>
- <img src="Business_analytics/avg_purchase_size.png" width="800" height="400" align='center'>
- <img src="Business_analytics/ltv.png" width="800" height="400" align='center'>
+ 
 
 Source:[Project](./Business_analytics)
 
