@@ -11,3 +11,5 @@ You are going to study:<br>
  - When they start to buy<br>
  - How much money each customer brings<br>
  - When they pay off<br>
+ 
+ ![Jupyter Notebook](./Business_analytics/marketing_expenses_optimization.ipynb)
