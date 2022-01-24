@@ -12,4 +12,4 @@ You are going to study:<br>
  - How much money each customer brings<br>
  - When they pay off<br>
  
- ![Jupyter Notebook](./Business_analytics/marketing_expenses_optimization.ipynb)
+ ![Jupyter Notebook](./marketing_expenses_optimization.ipynb)
