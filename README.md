@@ -1,12 +1,12 @@
-# Data Analysis Portfolio
+## Data Analysis Portfolio
 Welcome to my data analysis portfolio. Feel free to dive into the world of data.
 
-# Languages & libraries used:
+## Languages & libraries used:
  - Python, SQL, Excel & Tableau
  - Pandas, Numpy, Seaborn, Matplotlib, Stats, Datetime, Plotly
  
 
-## Project: *Conducting A/A/B testing, studying sales funnel*
+### Project: *Conducting A/A/B testing, studying sales funnel*
 The goal of the project is to test whether additional feature on the app will be successful or not.
 
  - Import and preprocess datasets
@@ -18,7 +18,7 @@ The goal of the project is to test whether additional feature on the app will be
 
 Source: [Project](./AAB_testing_user_behavior)
 
-## Project: *Visualizing Company’s Sales Data*
+### Project: *Visualizing Company’s Sales Data*
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 
@@ -30,7 +30,7 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 Source:[Project](./AB_statistical_hypotheses_testing)
 
-## Project: *Optimizing marketing expenses*
+### Project: *Optimizing marketing expenses*
  Help optimize marketing expenses.<br>
 
 Datasets:<br>
@@ -50,12 +50,12 @@ Tasks completed:<br>
 
 Source:[Project](./Business_analytics)
 
-## Project: *Cafe market research*
-# Project description
+### Project: *Cafe market research*
+## Project description
 You’ve decided to open a small robot-run cafe in Los Angeles. The project is promising but expensive, so you and your partners decide to try to attract investors. They’re interested in the current market conditions—will you be able to maintain your success when the novelty of robot waiters wears off?
 You’re an analytics guru, so your partners have asked you to prepare some market research. You have open-source data on restaurants in LA.
 
-# Goal of the Project
+### Goal of the Project
 Draw an overall conclusion and provide recommendations on restaurant type and number of seats. Comment on the possibility of developing a chain.<br>
 Make a presentation of your research to share with investors.
 
@@ -71,7 +71,7 @@ Make a presentation of your research to share with investors.
 
 Source:[Project](./Cafe_market_research)
 
-## Project: *Analyse client behavior*
+### Project: *Analyse client behavior*
 Analysing the earthquakes in Greece in a jupyter notebook
 
  - Data files and studying the general information
