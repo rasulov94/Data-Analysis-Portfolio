@@ -10,8 +10,8 @@ The task is to help optimize marketing expenses of the application which is avai
  - Retention & Conversion calculation
 
 
-## General Conclusion
-<div class="alert alert-info">The ultimate goal of our analysis was to optimize marketing expenses by calculating business metrics of Yandex.Afisha.
+## Overall Conclusion
+<div class="alert alert-info">The ultimate goal of this analysis was to optimize marketing expenses by calculating business metrics of Yandex.Afisha.
 We were provided a datasets:<br>
 
 <b>`Visits` --> Server logs with data on Yandex.Afisha visits from June 2017 through May 2018</b><br>
