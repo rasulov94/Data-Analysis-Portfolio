@@ -40,7 +40,8 @@ Before jumping right into analysis, we had to do data preprocessing, getting the
 
 Next step which was *calculating business metrics on product* we have looked through the followings :<br>
  - Total daily/weekly/monthly active users = 908, 5,724 and 23,228 respectively; plotted a graph to see the user activity.
- <img src='./images/dau.jpeg' >
+ <img src='./images/dau.jpeg' > 
+ 
  - Users on average have 1 session per day.
  - Average length of sessions were not distributed normally, therefore we took the mode = 60 seconds each session's duration.
  - Retention rates were following the logical pattern where users' possibility to come back to app gets higher as the time passes which implies higher retention rates in earlier days comparing to later. We have looked retention rates both by cohorts and source id to see when and from which source users mostly come back. Results show that most users come from sources 1 and 2. November 2017 cohort has the highest retention rate = 2.28%  on user's 1st day meaning the next day after their registration. 
