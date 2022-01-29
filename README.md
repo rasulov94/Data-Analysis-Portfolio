@@ -32,10 +32,11 @@ More details: [click here](./Business_analytics)
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)
- - Test statistical hypotheses using Mannwhitney statis
+ - Test statistical hypotheses using Mannwhitneyu statistics
+ <img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
+
  - Conclusion & recommendations
 
-<img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
 
 Findings: 
 - There's a statistically significant difference in conversion between the groups, according to both the raw and the filtered data. Group B has higher conversion rate than group A.
