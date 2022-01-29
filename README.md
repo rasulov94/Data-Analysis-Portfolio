@@ -1,8 +1,8 @@
 ## Welcome to my portfolio. Feel free to dive into the world of data & business analytics.
 
 ## Languages & Libraries:
- - Python, Jupyter notebook, SQL, Excel & Tableau
- - Pandas, Numpy, Seaborn, Matplotlib, Stats, Datetime, Plotly
+ - Python, Jupyter notebook, SQL, Excel, Tableau
+ - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Stats
  
 
 ### **Business Analytics Project:** **Optimizing marketing expenses**
@@ -12,7 +12,7 @@ Datasets:
  - Dump file with all orders for the period
  - Marketing expenses statistics  
 
-Answering Questions:
+Research Questions:
  - How people use the product
  - When they start to buy
  - How much money each customer brings
