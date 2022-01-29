@@ -6,18 +6,22 @@
  
 
 ### **Business Analytics Project:** **Optimizing marketing expenses**
-
+Analysing user's behavior and calcuation of business metrics such as retention, conversion, life-time value, cost of customer acquisition.
 Datasets:
  - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
  - Dump file with all orders for the period
  - Marketing expenses statistics  
 
 Research Questions:
- - How people use the product
- - When they start to buy
- - How much money each customer brings
- - When they pay off
+ - How customers use the product
+ - When they begin to purchase
+ - Revenue generated from each user
+ - When users pay off
 
+Findings:
+ - We would like to conclude that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one egg. 
+ - It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
+ 
 <img src='images/device.jpeg' align='center'>
 <img src='images/avg.jpeg' align='center'>
 
