@@ -43,4 +43,4 @@ We have prepocessed the data and the following changes have been made:
 
 <img src='images/distribution.jpeg' align='center'>
 
- 
+2. 
