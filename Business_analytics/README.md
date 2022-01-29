@@ -1,36 +1,17 @@
-## Project description
+### Project description
 The task is to help optimize marketing expenses of the application which is available for both `desktop` and `mobile` user that provides online upcoming events. We were provided datasets to work with and come up with suggestions.<br>
 
 
- ## The analysis overview:
- - Average daily/weekly/monthly active users | plotly visualization:
+ ### The analysis overview:
+ - Average daily/weekly/monthly active users  plotly visualization:
  - Average session per day (# sessions / # of users for period)
  - Duration of the session (end_time - start_time)
  - Cohort analysis
  - Retention & Conversion calculation
 
 
-## Overall Conclusion
-<div class="alert alert-info">The ultimate goal of this analysis was to optimize marketing expenses by calculating business metrics of Yandex.Afisha.
-We were provided a datasets:<br>
-
-<b>`Visits` --> Server logs with data on Yandex.Afisha visits from June 2017 through May 2018</b><br>
-    
-`uid`: user's unique identifier <br>
-`device`: user's type of device<br>
-`start_ts`: session start date and time<br>
-`end_ts`:  session end date and time<br>
-`source_id`: identifier of ad source the user came from <br>
-    
-<b>`Orders` --> Dump file with all orders for the period</b><br>
-`uid`: unique identifier of the user making an order<br>
-`buy_ts`:  order date and time<br>
-`revenue`: Yandex.Afisha's revenue from the order<br>  
-
-<b>`Costs` --> Marketing expenses statistics</b><br>
-`source_id`: ad source identifier<br>
-`dt`: date<br>
-`costs`: expenses on this ad source on this day. <br>
+### Overall Conclusion
+The ultimate goal of this analysis was to optimize marketing expenses by calculating business metrics of Yandex.Afisha.
 
 Before jumping right into analysis, we had to do data preprocessing, getting the dataset cleaned and accurate. We have looked through each columns of the dataset and made decisions on preprocessing. The following changes have been made:<br>
  - All columns of our dataframes were replaced with lowercase letters
@@ -61,12 +42,12 @@ In our further step which was *calculating business metrics on sales* we have lo
  - Following orders we have calculated the average purchase size that coincides with November month showing the significant incrase in average revenue per user where they made most orders.
  - Average Life-time value of users tells us how much a user brought to the company throughout their active purchase on Yandex.Afisha. Lifetime revenue per user differs across cohorts mostly because of seasonality as we have mentioned before. Let us take examples of two cohorts with the highest revenue per user's lifetime. July 2017 which is our first cohort, on average each customer brough  11.88 USD  in revenue over their eleventh-month lifetime, whereas September 2017 cohort users brought 13.44 USD within thier eighth lifetime. It would be relatively logical the ratio of ltv and cost of customer acquisiton to see where the company stands in terms of return on marketing investment.
 
-<img src='./images/ltv.jpeg' align='center' > 
+<img src='./images/ltv.jpeg' align='center'> 
 
 The next step was *calculating metrics on marketing* mainly return on marketing investment and cost of acquisition.<br>
  - We have analysed how much money was spent overall/per source/over time. Source 3 had the highest expenses where 42.9 % of our investment goes to only source 3 followed by source 4 with 18.6% of total expenses. The company had higher revenue in 2017 and consequently more investments followed in the same year. It is worth to mention that for 2018 we have data till May, so it is not comparable with 2017.
 
-<img src='./images/expense.jpeg' align='center' > 
+<img src='./images/expense.jpeg' align='center'> 
 
  - Customer acquistion from each source are different. It is also important to mention that we have to take into account only those visitors who converted to buyers not all visitors. Source number 3 has the highest cost of advertisement and higher CAC = 10. 2 USD comparing to other sources which their CAC lie between 2-5 USD. The CAC of source 3 almost doubles the cost of acquisition of other sources. We can see that company invests and focuses on source 3 a lot. 
 
