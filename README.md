@@ -21,11 +21,24 @@ Research Questions:
 Findings:
  - We would like to conclude that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one egg. 
  - It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
- 
+
 <img src='images/device.jpeg' align='center'>
 <img src='images/avg.jpeg' align='center'>
 
 More details: [Here](./Business_analytics) 
+
+
+### **Project:** **Statistical Hypothesis Testing**
+Prioritize hypotheses, launch an A/B test, and analyze the results.
+
+ - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
+ - Test hypotheses
+ - Conclusion & recommendations
+
+
+<img src='images/conversion.jpeg' align='center'>
+
+More details: [Here](./AB_statistical_hypotheses_testing)
 
 
 ### **Project:** **Conducting A/A/B testing, studying sales funnel**
@@ -43,16 +56,5 @@ The goal of the project is to test whether additional feature on the app will be
 More details:[Here](./AAB_testing_user_behavior) 
 
 
-### **Project:** **Statistical Hypothesis Testing**
-Prioritize hypotheses, launch an A/B test, and analyze the results.
-
- - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
- - Test hypotheses
- - Conclusion & recommendations
-
-
-<img src='images/conversion.jpeg' align='center'>
-
-More details: [Here](./AB_statistical_hypotheses_testing)
 
 
