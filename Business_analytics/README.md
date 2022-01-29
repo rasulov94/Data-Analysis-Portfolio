@@ -44,13 +44,7 @@ Next step which was *calculating business metrics on product* we have looked thr
  - Average length of sessions were not distributed normally, therefore we took the mode = 60 seconds each session's duration.
  - Retention rates were follwing the logical pattern where users' possibility to come back to app gets higher as the time passes which implies higher retention rates in earlier days comparing to later. We have looked retention rates both by cohorts and source id to see when and from which source users mostly come back. Results show that most users come from sources 1 and 2. November 2017 cohort has the highest retention rate = 2.28%  on user's 1st day meaning the next day after their registration. 
 
-<img src='images/ltv.jpeg' >
-
-
-
-
-
-
+<img src='Business_analytics/images/dau.jpeg' >
 
 
 
@@ -62,7 +56,7 @@ In our further step which was *calculating business metrics on sales* we have lo
 
 
  - Number of orders across cohorts also are different. That could be explained by the seasonality of the product.November 2017 shows us that user made more orders than any other month throughout reporting peroid. There is also robust reason which is the Black Friday which takes place on the Last Friday of November each year.
- 
+
  - Following orders we have calculated the average purchase size that coincides with November month showing the significant incrase in average revenue per user where they made most orders.
  - Average Life-time value of users tells us how much a user brought to the company throughout their active purchase on Yandex.Afisha. Lifetime revenue per user differs across cohorts mostly because of seasonality as we have mentioned before. Let us take examples of two cohorts with the highest revenue per user's lifetime. July 2017 which is our first cohort, on average each customer brough  11.88 USD  in revenue over their eleventh-month lifetime, whereas September 2017 cohort users brought 13.44 USD within thier eighth lifetime. It would be relatively logical the ratio of ltv and cost of customer acquisiton to see where the company stands in terms of return on marketing investment.
 
