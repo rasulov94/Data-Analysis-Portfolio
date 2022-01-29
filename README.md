@@ -9,15 +9,15 @@
 #### **Description**
 Analysing user's behavior and calcuation of business metrics such as retention, conversion, life-time value, cost of customer acquisition.
 #### **Datasets:**
- - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
- - Dump file with all orders for the period
+ - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018  
+ - Dump file with all orders for the period  
  - Marketing expenses statistics  
 
 #### **Research Questions:**
- - How customers use the product
- - When they begin to purchase
- - Revenue generated from each user
- - When users pay off
+ - How customers use the product  
+ - When they begin to purchase  
+ - Revenue generated from each user  
+ - When users pay off  
 
 #### **Findings:**
  - We would like to conclude that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one egg. 
@@ -29,7 +29,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 More details: **[click here](./Business_analytics)**
 
 
-### **Project:** **Statistical Hypothesis Testing**
+### **Project:** **Statistical Hypotheses Testing**
 #### **Description**
 Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.
 We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
@@ -53,8 +53,9 @@ More details: **[click here](./AB_statistical_hypotheses_testing)**
 
 
 ### **Project:** **Conducting A/A/B testing, studying sales funnel**
+#### **Description**  
 The goal of the project is to test whether additional feature on the app will be successful or not.
-
+### **Task**  
  - Import and preprocess datasets
  - Exploratory data analysis
  - Study events funnel
@@ -64,6 +65,7 @@ The goal of the project is to test whether additional feature on the app will be
 <img src='images/users.jpeg'>
 <img src='images/funnel.jpeg'>
 </p>
+
 More details: [Here](./AAB_testing_user_behavior) 
 
 
