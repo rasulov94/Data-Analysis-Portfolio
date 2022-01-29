@@ -25,20 +25,26 @@ Findings:
 <img src='images/device.jpeg' align='center'>
 <img src='images/avg.jpeg' align='center'>
 
-More details: [Here](./Business_analytics) 
+More details: [click here](./Business_analytics) 
 
 
 ### **Project:** **Statistical Hypothesis Testing**
 Prioritize hypotheses, launch an A/B test, and analyze the results.
 
- - Prioritize hypotheses through ICE (Impact*Confidence/Effort) framework
- - Test hypotheses
+ - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)
+ - Test statistical hypotheses using Mannwhitney statis
  - Conclusion & recommendations
 
+<img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
+
+Findings: 
+- There's a statistically significant difference in conversion between the groups, according to both the raw and the filtered data. Group B has higher conversion rate than group A.
+ - The raw data didn't show a statistically significant difference between the groups in terms of average purchase size in both raw and the filtered data.However, after the anomalies were removed, the relative difference became smaller.
+ - The graph of the difference in conversion between the groups shows that group B's results are better than those of group A: conversion rates of both groups seem to be stabilized after the first week of testing period. Overall, the conversion rate of group B is slightly higher than the conversion rate of group A.
 
 <img src='images/conversion.jpeg' align='center'>
 
-More details: [Here](./AB_statistical_hypotheses_testing)
+More details: [click here](./AB_statistical_hypotheses_testing)
 
 
 ### **Project:** **Conducting A/A/B testing, studying sales funnel**
@@ -53,7 +59,7 @@ The goal of the project is to test whether additional feature on the app will be
 <img src='images/users.jpeg'>
 <img src='images/funnel.jpeg'>
 </p>
-More details:[Here](./AAB_testing_user_behavior) 
+More details: [Here](./AAB_testing_user_behavior) 
 
 
 
