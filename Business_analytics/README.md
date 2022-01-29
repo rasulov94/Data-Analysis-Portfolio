@@ -1,7 +1,15 @@
-### Project description
+## **Table of Contents**
+### [1. Project description](#1)
+### [2. The Analysis Overview](#2)
+### [3. Overall Conclusion](#3)
+
+
+
+<a id='1'> </a>
+### **Project description**
 The task is to help optimize marketing expenses of the application which is available for both `desktop` and `mobile` user that provides online upcoming events. We were provided datasets to work with and come up with suggestions.<br>
 
-
+<a id='2'> </a>
  ### The analysis overview:
  - Average daily/weekly/monthly active users  plotly visualization:
  - Average session per day (# sessions / # of users for period)
@@ -9,15 +17,15 @@ The task is to help optimize marketing expenses of the application which is avai
  - Cohort analysis
  - Retention & Conversion calculation
 
-
-### Overall Conclusion
+<a id='3'> </a>
+### **Overall Conclusion**  
 The ultimate goal of this analysis was to optimize marketing expenses by calculating business metrics of Yandex.Afisha.
 
-Before jumping right into analysis, we had to do data preprocessing, getting the dataset cleaned and accurate. We have looked through each columns of the dataset and made decisions on preprocessing. The following changes have been made:  
- - All columns of our dataframes were replaced with lowercase letters  
- - All columns of our datasets were changed to certain types (e.g. `device` column to category type) for the sake of optimization  
- - All columns containing dates were changed to datetime formats(e.g. `start_ts` and `end_ts` columns to datetime)  
- - Dataframes were checked for duplicates and missing values.  
+Before jumping right into analysis, we had to do data preprocessing, getting the dataset cleaned and accurate. We have looked through each columns of the dataset and made decisions on preprocessing. The following changes have been made:   
+All columns of our dataframes were replaced with lowercase letters  
+All columns of our datasets were changed to certain types (e.g. `device` column to category type) for the sake of optimization.  
+All columns containing dates were changed to datetime formats(e.g. `start_ts` and `end_ts` columns to datetime).  
+Dataframes were checked for duplicates and missing values.  
 
 Next step which was *calculating business metrics on product* we have looked through the followings:  
 Total daily/weekly/monthly active users = 908, 5,724 and 23,228 respectively; plotted a graph to see the user activity.
