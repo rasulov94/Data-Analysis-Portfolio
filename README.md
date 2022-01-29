@@ -5,6 +5,25 @@
  - Pandas, Numpy, Seaborn, Matplotlib, Stats, Datetime, Plotly
  
 
+### **Business Analytics Project:** **Optimizing marketing expenses**
+
+Datasets:
+ - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
+ - Dump file with all orders for the period
+ - Marketing expenses statistics  
+
+Answering Questions:
+ - How people use the product
+ - When they start to buy
+ - How much money each customer brings
+ - When they pay off
+
+<img src='images/device.jpeg' align='center'>
+<img src='images/avg.jpeg' align='center'>
+
+Source: [Project](./Business_analytics) 
+
+
 ### **Project:** **Conducting A/A/B testing, studying sales funnel**
 The goal of the project is to test whether additional feature on the app will be successful or not.
 
@@ -32,20 +51,4 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 Source: [Project](./AB_statistical_hypotheses_testing)
 
-### **Project:** **Optimizing marketing expenses**
 
-Datasets:
- - Server logs with data on Yandex.Afisha visits from June 2017 through May 2018
- - Dump file with all orders for the period
- - Marketing expenses statistics  
-
-Answering Questions:
- - How people use the product
- - When they start to buy
- - How much money each customer brings
- - When they pay off
-
-<img src='images/device.jpeg' align='center'>
-<img src='images/avg.jpeg' align='center'>
-
-Source: [Project](./Business_analytics) 
