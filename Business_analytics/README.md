@@ -70,7 +70,6 @@ The next step was *calculating metrics on marketing* mainly return on marketing 
 
  - Customer acquistion from each source are different. It is also important to mention that we have to take into account only those visitors who converted to buyers not all visitors. Source number 3 has the highest cost of advertisement and higher CAC = 10. 2 USD comparing to other sources which their CAC lie between 2-5 USD. The CAC of source 3 almost doubles the cost of acquisition of other sources. We can see that company invests and focuses on source 3 a lot. 
 
-
 Finally, Return on Marketing investment was calculated. For a company to be on a profit side, it must have its LTV greater than CAC. The results show the same pattern.  For the first cohort, acquiring each customer cost the company an average of 8.90, while each customer brought in 11.87. So investment in customer acquisition is paying off. We have  run calculations for the other cohorts and determined the number of months each cohort requires to cover marketing expenses. Well, return on marketing expenses differ across cohorts as well. For instance, September 2017 cohort paid off after 3 months while cohorts after Septermber have not yet. This implies that the average time to recoup marketing investments are longer than 3 months. Let us find out how quickly cohorts pay off on average. On average, cohorts pay off toward the end of the 8th month.
 
 <img src='./images/roi.jpeg' align='center' > 
