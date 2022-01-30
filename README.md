@@ -5,6 +5,29 @@
  - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Stats
  
 
+
+### **Statistical Hypotheses Testing Project**
+#### **Description**
+Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.
+We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
+#### **Task**
+Prioritize hypotheses, launch an A/B test, and analyze the results.
+
+ - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)
+ - Test statistical hypotheses using Mannwhitneyu statistics
+ <img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
+ - Conclusion & recommendations
+
+
+#### **Findings:**
+1. There's a statistically significant difference in conversion between the groups, according to both the raw and the filtered data. Group B has higher conversion rate than group A.
+2. The raw data didn't show a statistically significant difference between the groups in terms of average purchase size in both raw and the filtered data.However, after the anomalies were removed, the relative difference became smaller.
+3. The graph of the difference in conversion between the groups shows that group B's results are better than those of group A: conversion rates of both groups seem to be stabilized after the first week of testing period. Overall, the conversion rate of group B is slightly higher than the conversion rate of group A.
+
+<img src='images/conversion.jpeg' align='center'>
+
+More details: **[click here](./AB_statistical_hypotheses_testing)** <br>
+
 ### **Business Analytics Project:** **Optimizing marketing expenses**
 #### **Description**
 Analysing user's behavior and calcuation of business metrics such as retention, conversion, life-time value, cost of customer acquisition.
@@ -28,28 +51,6 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 
 More details: **[click here](./Business_analytics)**
 
-
-### **Statistical Hypotheses Testing Project**
-#### **Description**
-Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.
-We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
-#### **Task**
-Prioritize hypotheses, launch an A/B test, and analyze the results.
-
- - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)
- - Test statistical hypotheses using Mannwhitneyu statistics
- <img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
- - Conclusion & recommendations
-
-
-#### **Findings:**
-1. There's a statistically significant difference in conversion between the groups, according to both the raw and the filtered data. Group B has higher conversion rate than group A.
-2. The raw data didn't show a statistically significant difference between the groups in terms of average purchase size in both raw and the filtered data.However, after the anomalies were removed, the relative difference became smaller.
-3. The graph of the difference in conversion between the groups shows that group B's results are better than those of group A: conversion rates of both groups seem to be stabilized after the first week of testing period. Overall, the conversion rate of group B is slightly higher than the conversion rate of group A.
-
-<img src='images/conversion.jpeg' align='center'>
-
-More details: **[click here](./AB_statistical_hypotheses_testing)** <br>
 
 
 
