@@ -40,7 +40,7 @@ Average purchase size also increases after the first week of the test. It stabil
 3. Find the statistical significance of the difference in conversion between the groups using the filtered data.
 4. Find the statistical significance of the difference in average order size between the groups using the filtered data.
 
-**Note**: To calculate the statistical significance of the difference in the segments' average order size, we'll pass the data on revenue to the `mannwhitneyu()` method.  
+*Note:* To calculate the statistical significance of the difference in the segments' average order size, we'll pass the data on revenue to the `mannwhitneyu()` method.  
 
 <a id='4'> </a>
 ### **Overall Conclusion:**

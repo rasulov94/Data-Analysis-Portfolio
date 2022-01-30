@@ -10,7 +10,7 @@
 The task is to help optimize marketing expenses of the application which is available for both `desktop` and `mobile` user that provides online upcoming events. We were provided datasets to work with and come up with suggestions.<br>
 
 <a id='2'> </a>
- ### The analysis overview:
+### **The analysis overview:**
  - Average daily/weekly/monthly active users  plotly visualization:
  - Average session per day (# sessions / # of users for period)
  - Duration of the session (end_time - start_time)
