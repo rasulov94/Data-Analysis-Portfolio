@@ -69,7 +69,7 @@ As we see from histogram above, all the events occured from 2019-07-31, meaning 
 
 <img src='images/trial.jpeg' align='center'>  
 
-**Note**: Critical significance level (alpha) : .05
+*Note*: Critical significance level (alpha) : .05
 
 In the final step, we have studied the results of the experiment and conducted several hypotheses. Followings are the outcomes:
  - We have the highest number of users --> 2,537 in our test group (number 248) followed by control group 247 with 2,513 users
