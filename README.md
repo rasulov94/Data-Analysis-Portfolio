@@ -29,7 +29,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 More details: **[click here](./Business_analytics)**
 
 
-### **Project:** **Statistical Hypotheses Testing**
+### **Statistical Hypotheses Testing Project**
 #### **Description**
 Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.
 We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
@@ -49,10 +49,11 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 <img src='images/conversion.jpeg' align='center'>
 
-More details: **[click here](./AB_statistical_hypotheses_testing)**
+More details: **[click here](./AB_statistical_hypotheses_testing)** <br>
 
 
-###**Conducting A/A/B testing, Studying sales funnel**
+
+### **Conducting A/A/B testing, studying sales funnel Project**
 #### **Description**  
 The goal of the project is to test whether additional feature on the app will be successful or not.
 ### **Task**  
