@@ -65,5 +65,5 @@ Finally, Return on Marketing investment was calculated. For a company to be on a
 
 The conclusion is that for planning advertising campaigns, we have to be careful about the sources in which we invest our money. It is better to diversify investment portfolios. It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
 
-<a href="./marketing_expenses_optimization.ipynb">Jupyter Notebook</a>   
+<a href="./marketing_expenses_optimization.ipynb">Reference: Jupyter Notebook</a>   
  

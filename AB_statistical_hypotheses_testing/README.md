@@ -56,4 +56,4 @@ After having calculated all the necessary metrics for the conducted A/B test, we
  We have found out that there were 72 abnormal users(outliers) in our dataframe but their effect was not significant
  At this point, we can conclude that we came to the end of our analysis of the hypothesis and call it success and move to the next hypothesis.
 
-<a href="./AB_testing.ipynb">Jupyter notebook</a> 
+<a href="./AB_testing.ipynb">Reference: Jupyter notebook</a> 
