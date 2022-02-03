@@ -70,10 +70,14 @@ The goal of the project is to test whether additional feature on the app will be
 </p>
 
 #### **Findings:**  
-1. The highest number of users : 2,537 in our test group (number 248) followed by control group 247 with 2,513 users  
-Having 3 different experiment groups, it is important to ensure that that the samples are the same. In order to do so, we want to check if there is a statistically significant difference between all of the control groups. If we find that there is a significant difference, then the control groups have been split up unequally and results will not accurately represent the population.  
-2. We have calculated the p-value for all events of two experiment groups. The results tell us not to reject the H0 for all events. Thus, we can proceed with further experiment groups.    
+
+
+1. Having 3 different experiment groups, it is important to ensure that that the samples are the same. In order to do so, we want to check if there is a statistically significant difference between all of the control groups. If we find that there is a significant difference, then the control groups have been split up unequally and results will not accurately represent the population.  
+
+2. We have calculated the p-value for all events of two experiment groups. The results tell us not to reject the H0 for all events. Thus, we can proceed with further experiment groups.  
+
 3. We have compared both control groups with test group. All of the outcomes lead to failure of H0 implying that there is no statistically significant differences between sample groups.  
+
 4. With the Bonferroni correction, we have adjusted the alpha = 0.0033. Moreover we have observed no change in hypotheses outcomes. Overall, we can conclude that changes in fonts do not have influence on the conversion.  
 
 More details: [click here](./AAB_testing_user_behavior) 
