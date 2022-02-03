@@ -1,6 +1,7 @@
-## Welcome to my portfolio. Feel free to dive into the world of data & business analytics.
+## Welcome to my portfolio. Feel free to dive into the world of data and business analytics.
 
-## **Languages & Libraries:**
+## **Languages & Libraries:**  
+
  - Python, Jupyter notebook, SQL, Excel, Tableau
  - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Stats
  
