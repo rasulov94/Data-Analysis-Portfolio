@@ -7,7 +7,7 @@
  
 
 
-### **Statistical Hypotheses Testing Project**
+## **Project: Statistical Hypotheses Testing**
 #### **Description**  
 
 Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.  
@@ -38,7 +38,7 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 More details: [click here](./AB_statistical_hypotheses_testing) <br>
 
 
-### **Business Analytics Project:** **Optimizing marketing expenses**
+## **Business Analytics Project:** **Optimizing marketing expenses**
 #### **Description**
 Analysing user's behavior and calcuation of business metrics such as retention, conversion, life-time value, cost of customer acquisition.
 #### **Datasets:**
@@ -61,7 +61,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
   More details: [click here](./Business_analytics)
 
 
-### **Conducting A/A/B testing, studying sales funnel Project**
+## **Conducting A/A/B testing, studying sales funnel Project**
 #### **Description**  
 
 The goal of the project is to test whether additional feature on the app will be successful or not.  
@@ -92,5 +92,30 @@ The goal of the project is to test whether additional feature on the app will be
 More details: [click here](./AAB_testing_user_behavior) 
 
 
+## **Project: Forecasting customer churn**
+#### **Description**  
 
+The gym chain Model Fitness is developing a customer interaction strategy based on analytical data. Analyze customer profiles and come up with a customer retention strategy.
+
+### **Task**  
+
+ - Import and preprocess datasets
+ - Exploratory data analysis
+ - Build a model to predict user churn
+ - Create user clusters
+ - Results of the experiment & recommendations
+
+<p align='center'>
+<img src='images/corr.jpeg'>
+<img src='images/cluster.jpeg'>
+</p>
+
+#### **Findings:**  
+
+Recommendations for betterment customer retention and lower churn rates are the following:
+ 1. For acquiring new customers, we should focus on customers that live near to gym location, who are employees at a partner company and between the ages of 27 and 32 years. The data shows that customers who fall under one or (ideally) all of these categories are less likely to churn.
+ 2. For already existing customers, encourage them to spend more money on other gym services  and services and increase their amount of weekly visits by providing discounts on products. These are all factors that make a customer less likely to churn.Example could be providing special training courses or showing live events in bars make visitors to stay longer or come more often. Additionally, we focus on customers who have 1-2 months before their current contract ends. This is when customers are more likely to decide whether to continue their subscription or not. 
+ 3. Not to forget about our main target. The most loyal customers are those who are between the ages of 27 and 34, who spend the most on other gym services, who live near the location, who are employees at partner companies, who spend money on additional gym services and who visit the gym about 2 times on a weekly basis. 
+
+More details: [click here](./Forecasting_customer_churn) 
 
