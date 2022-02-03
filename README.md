@@ -1,6 +1,6 @@
 ## Welcome to my portfolio. Feel free to dive into the world of data & business analytics.
 
-## Languages & Libraries:
+## **Languages & Libraries:**
  - Python, Jupyter notebook, SQL, Excel, Tableau
  - Pandas, Numpy, Seaborn, Matplotlib, Plotly, Stats
  
@@ -12,6 +12,7 @@
 Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.  
 
 We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
+
 #### **Task**  
 
 Prioritize hypotheses, launch an A/B test, and analyze the results.  
@@ -65,7 +66,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 The goal of the project is to test whether additional feature on the app will be successful or not.  
 
 ### **Task**  
-  
+
  - Import and preprocess datasets
  - Exploratory data analysis
  - Study events funnel
