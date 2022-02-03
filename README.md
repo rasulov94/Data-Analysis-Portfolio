@@ -26,7 +26,8 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 
 <img src='images/conversion.jpeg' align='center'>
 
-More details: **[click here](./AB_statistical_hypotheses_testing)** <br>
+More details: [click here](./AB_statistical_hypotheses_testing) <br>
+
 
 ### **Business Analytics Project:** **Optimizing marketing expenses**
 #### **Description**
@@ -43,13 +44,13 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
  - When users pay off  
 
 #### **Findings:**
- - We would like to conclude that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one egg. 
- - It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
+ 1. The conclusion is that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one basket.
+ 2. It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
 
 <img src='images/device.jpeg' align='center'>
 <img src='images/avg.jpeg' align='center'>
 
-More details: **[click here](./Business_analytics)**
+More details: [click here](./Business_analytics)
 
 
 
@@ -69,13 +70,13 @@ The goal of the project is to test whether additional feature on the app will be
 </p>
 
 #### **Findings:**  
-The highest number of users : 2,537 in our test group (number 248) followed by control group 247 with 2,513 users  
+1. The highest number of users : 2,537 in our test group (number 248) followed by control group 247 with 2,513 users  
 Having 3 different experiment groups, it is important to ensure that that the samples are the same. In order to do so, we want to check if there is a statistically significant difference between all of the control groups. If we find that there is a significant difference, then the control groups have been split up unequally and results will not accurately represent the population.  
-We have calculated the p-value for all events of two experiment groups. The results tell us not to reject the H0 for all events. Thus, we can proceed with further experiment groups.    
-We have compared both control groups with test group. All of the outcomes lead to failure of H0 implying that there is no statistically significant differences between sample groups.  
-With the Bonferroni correction, we have adjusted the alpha = 0.0033. Moreover we have observed no change in hypotheses outcomes. Overall, we can conclude that changes in fonts do not have influence on the conversion.  
+2. We have calculated the p-value for all events of two experiment groups. The results tell us not to reject the H0 for all events. Thus, we can proceed with further experiment groups.    
+3. We have compared both control groups with test group. All of the outcomes lead to failure of H0 implying that there is no statistically significant differences between sample groups.  
+4. With the Bonferroni correction, we have adjusted the alpha = 0.0033. Moreover we have observed no change in hypotheses outcomes. Overall, we can conclude that changes in fonts do not have influence on the conversion.  
 
-More details: [Here](./AAB_testing_user_behavior) 
+More details: [click here](./AAB_testing_user_behavior) 
 
 
 
