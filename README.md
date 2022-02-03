@@ -7,15 +7,22 @@
 
 
 ### **Statistical Hypotheses Testing Project**
-#### **Description**
-Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.
-We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
-#### **Task**
-Prioritize hypotheses, launch an A/B test, and analyze the results.
+#### **Description**  
 
- - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)
- - Test statistical hypotheses using Mannwhitneyu statistics
- <img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>
+Together with the marketing department, we've compiled a list of hypotheses that may help boost revenue.  
+
+We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
+#### **Task**  
+
+Prioritize hypotheses, launch an A/B test, and analyze the results.  
+
+
+ - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)  
+
+ - Test statistical hypotheses using Mannwhitneyu statistics  
+
+ <img src='AB_statistical_hypotheses_testing/images/hypothesis.jpeg' align='center'>  
+
  - Conclusion & recommendations
 
 
@@ -45,20 +52,20 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 
 #### **Findings:**
  1. The conclusion is that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one basket.
- 2. It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.
+ 2. It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.  
+ <img src='images/device.jpeg' align='center'>
+<img src='images/avg.jpeg' align='center'> <br> </br>
 
-<img src='images/device.jpeg' align='center'>
-<img src='images/avg.jpeg' align='center'>
-
-More details: [click here](./Business_analytics)
-
-
+  More details: [click here](./Business_analytics)
 
 
 ### **Conducting A/A/B testing, studying sales funnel Project**
 #### **Description**  
-The goal of the project is to test whether additional feature on the app will be successful or not.
+
+The goal of the project is to test whether additional feature on the app will be successful or not.  
+
 ### **Task**  
+  
  - Import and preprocess datasets
  - Exploratory data analysis
  - Study events funnel
