@@ -66,7 +66,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 
 The goal of the project is to test whether additional feature on the app will be successful or not.  
 
-### **Task**  
+#### **Task**  
 
  - Import and preprocess datasets
  - Exploratory data analysis
@@ -97,7 +97,7 @@ More details: [click here](./AAB_testing_user_behavior)
 
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data. Analyze customer profiles and come up with a customer retention strategy.
 
-### **Task**  
+#### **Task**  
 
  - Import and preprocess datasets
  - Exploratory data analysis
@@ -110,7 +110,7 @@ The gym chain Model Fitness is developing a customer interaction strategy based 
 <img src='images/cluster.jpeg'>
 </p>
 
-### **Findings:**  
+#### **Findings:**  
 
 Recommendations for betterment customer retention and lower churn rates are the following:
  1. For acquiring new customers, we should focus on customers that live near to gym location, who are employees at a partner company and between the ages of 27 and 32 years. The data shows that customers who fall under one or (ideally) all of these categories are less likely to churn.
