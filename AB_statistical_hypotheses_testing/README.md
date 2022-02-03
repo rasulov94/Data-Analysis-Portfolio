@@ -16,16 +16,17 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 <a id='2'> </a>
 
 ### **Data Analysis**  
-1. Prioritize hypotheses through ICE (Impact*Confidence/Effort)
+*1. Prioritize hypotheses through ICE (Impact*Confidence/Effort)*
 <img src='images/ice.jpeg' align='center'> 
  
-2. RICE (Reach*Imapact*Confidenc/Effort)  
+***2. RICE (Reach*Imapact*Confidenc/Effort)*
 <img src='images/rice.jpeg' align='center'>
 
-3. Graph cumulative revenue by testing group  
-<img src='images/rev.jpeg' align='center'>
+*3. Graph cumulative revenue by testing group*
 
 The graph below illustrates the revenue of two groups for a period of a month. From August 2019 to September 2019. Revenue is rising steadily throughout the whole test in both groups. That's a good sign. But we can see a hughe spike from 30k to 50 in revenue after the second week of testing. Thats clearly a sign that has worked sucessfully resulting in higher revenue for group B.
+
+<img src='images/rev.jpeg' align='center'>
 
 4 Graph cumulative average order size by group
 
