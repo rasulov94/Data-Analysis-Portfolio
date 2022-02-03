@@ -110,7 +110,7 @@ The gym chain Model Fitness is developing a customer interaction strategy based 
 <img src='images/cluster.jpeg'>
 </p>
 
-#### **Findings:**  
+### **Findings:**  
 
 Recommendations for betterment customer retention and lower churn rates are the following:
  1. For acquiring new customers, we should focus on customers that live near to gym location, who are employees at a partner company and between the ages of 27 and 32 years. The data shows that customers who fall under one or (ideally) all of these categories are less likely to churn.
