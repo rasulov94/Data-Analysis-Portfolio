@@ -16,10 +16,12 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 <a id='2'> </a>
 
 ### **Data Analysis**  
-*1. Prioritize hypotheses through ICE (Impact*Confidence/Effort)*
+*1. Prioritize hypotheses through ICE (Impact*Confidence/Effort)*  
+
 <img src='images/ice.jpeg' align='center'> 
  
-***2. RICE (Reach*Imapact*Confidenc/Effort)*
+***2. RICE (Reach*Imapact*Confidenc/Effort)*  
+
 <img src='images/rice.jpeg' align='center'>
 
 *3. Graph cumulative revenue by testing group*
