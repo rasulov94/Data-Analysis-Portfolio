@@ -61,7 +61,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
   More details: [click here](./Business_analytics)
 
 
-## **Conducting A/A/B testing, studying sales funnel Project**
+## **Project: Conducting A/A/B testing, Studying Sales Funnel**
 #### **Description**  
 
 The goal of the project is to test whether additional feature on the app will be successful or not.  

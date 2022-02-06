@@ -79,4 +79,4 @@ In the final step, we have studied the results of the experiment and conducted s
  - We have compared both control groups with test group. All of the outcomes lead to failure of H0 implying that there is no statistically significant differences between sample groups.
  - With the Bonferroni correction, we have adjusted the alpha = 0.0033. Moreover we have observed no change in hypotheses outcomes. Overall, we can conclude that changes in fonts do not have influence on the conversion.  
  
- <a href="./user_behavior_funnel.ipynb">Reference: Jupyter notebook</a> 
+ <a href="/AAB_testing_user_behavior/user_behavior_funnel.ipynb">Reference: Jupyter notebook</a> 
