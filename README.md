@@ -1,4 +1,4 @@
-## Welcome to my portfolio. Feel free to dive into the world of data and business analytics.
+## Hello, World! Welcome to my data analysis portfolio comprised of real-world case studies. Feel free to dive into the world of data and business analytics.
 
 ## **Languages & Libraries:**  
 
