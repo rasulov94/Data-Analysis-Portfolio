@@ -14,9 +14,11 @@ Together with the marketing department, we've compiled a list of hypotheses that
 
 We need to prioritize these hypotheses, launch an A/B test, and analyze the results.<br>
 
-#### **Task**  
+#### **Research Questions**  
 
-Prioritize hypotheses, launch an A/B test, and analyze the results.  
+- Prioritize hypotheses 
+- Launch an A/B test
+- Analyze the results
 
 
  - Prioritize hypotheses through ICE (Impact*Confidence/Effort) and RICE (Reach*Imapact*Confidenc/Effort)  
@@ -66,7 +68,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
 
 The goal of the project is to test whether additional feature on the app will be successful or not.  
 
-#### **Task**  
+#### **Research Questions**  
 
  - Import and preprocess datasets
  - Exploratory data analysis
@@ -97,7 +99,7 @@ More details: [click here](./AAB_testing_user_behavior)
 
 The gym chain Model Fitness is developing a customer interaction strategy based on analytical data. Analyze customer profiles and come up with a customer retention strategy.
 
-#### **Task**  
+#### **Research Questions**  
 
  - Import and preprocess datasets
  - Exploratory data analysis
