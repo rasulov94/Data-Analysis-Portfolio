@@ -58,7 +58,7 @@ Analysing user's behavior and calcuation of business metrics such as retention, 
  1. The conclusion is that for planning advertising campaigns, we have to be careful about the sourcses in which we invest our money and it is better to diversify investment portfolios rather than placing everything in one basket.
  2. It is a must to consider that for marketing investments to pay off one customer acquisition can not cost more than $9.0835. Since our customers bring that amount of money in the 8 month period which is also the time to pay off.  
  <img src='images/device.jpeg' align='center'>
-<img src='images/avg.jpeg' align='center'> <br> </br>
+<img src='images/avg.jpeg' align='center'> 
 
   More details: [click here](./Business_analytics)
 

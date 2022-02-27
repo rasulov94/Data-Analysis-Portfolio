@@ -16,7 +16,7 @@ Prioritize hypotheses, launch an A/B test, and analyze the results.
 <a id='2'> </a>
 
 ### **Data Analysis**  
-*1. Prioritize hypotheses through ICE (Impact*Confidence/Effort)*  
+1. Prioritize hypotheses through ICE (Impact * Confidence/Effort) 
 
 <img src='images/ice.jpeg' align='center'> 
  
